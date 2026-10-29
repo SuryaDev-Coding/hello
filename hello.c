@@ -2,6 +2,7 @@
 
 int main()
 {
+    int a = 10;
     printf("Hello");
     //Hello
     return 0;
